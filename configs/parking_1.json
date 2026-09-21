@@ -1,0 +1,15 @@
+{
+  "camera_id": "parking_1",
+  "camera_name": "Demo parking camera",
+  "image_width": 1280,
+  "image_height": 720,
+  "occupation_seconds": 5,
+  "release_seconds": 5,
+  "places": [
+    {"id": 1, "name": "A1", "polygon": [[110, 260], [250, 250], [270, 420], [95, 430]]},
+    {"id": 2, "name": "A2", "polygon": [[270, 250], [410, 245], [435, 415], [270, 420]]},
+    {"id": 3, "name": "A3", "polygon": [[430, 245], [570, 245], [600, 410], [435, 415]]},
+    {"id": 4, "name": "A4", "polygon": [[590, 245], [730, 250], [770, 420], [600, 410]]},
+    {"id": 5, "name": "A5", "polygon": [[750, 250], [890, 260], [940, 430], [770, 420]]}
+  ]
+}
